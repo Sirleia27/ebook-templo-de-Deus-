@@ -1,0 +1,8 @@
+{
+  "name": "El Templo Secreto - Página de Ventas",
+  "description": "Una página de ventas espiritual y persuasiva para o ebook 'El Templo Secreto de Jesús Dentro de Ti'.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
